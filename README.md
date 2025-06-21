@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm MrAlob! 👋
 
-<!--
-**MrAlob/MrAlob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Frontend Development Student** with big dreams of becoming a **Full Stack Developer**! I'm passionate about creating beautiful, functional web experiences and constantly exploring new technologies.
 
-Here are some ideas to get you started:
+## 💻 Current Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Focus:** Frontend Development & User Experience
+- **Interests:** Security, Testing, and experimenting with new tech combinations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Deepening my JavaScript knowledge
+- Exploring backend technologies to become full stack
+- Security best practices in web development
+- Testing frameworks and methodologies
+
+## 🔭 What I'm Working On
+- Building responsive web projects
+- Experimenting with different JavaScript frameworks
+- Learning about web security fundamentals
+- Creating projects that combine multiple technologies
+
+## 🛡️ Special Interests
+- **Cybersecurity:** Understanding web vulnerabilities and secure coding practices
+- **Technology Fusion:** Love testing new combinations of languages and tools
+- **Continuous Learning:** Always exploring emerging technologies and development trends
+
+## 🎯 Goals
+- Master full stack development
+- Contribute to open source projects
+- Build secure, scalable web applications
+- Share knowledge with the developer community
+
+## 📊 GitHub Stats
+![MrAlob's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAlob&show_icons=true&theme=radical)
+
+## � Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrAlob&theme=radical)
+
