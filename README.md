@@ -1,4 +1,4 @@
-# Hi there, I'm MrAlob! 👋
+# Hi there!
 
 ## 🚀 About Me
 I'm a **Frontend Development Student** with big dreams of becoming a **Full Stack Developer**! I'm passionate about creating beautiful, functional web experiences and constantly exploring new technologies.
